@@ -1,4 +1,5 @@
-URAIAN LANGKAH LANGKAH CODING 1
+URAIAN LANGKAH LANGKAH CODING 1 
+
 Inisialisasi Harga Tiket dan Diskon
 Tetapkan nilai awal untuk harga tiket reguler (harga_reguler) sebesar Rp50,000 dan harga tiket VIP (harga_vip) sebesar Rp100,000.
 Tetapkan diskon member (diskon_member) sebesar 20% (0.2).
@@ -20,6 +21,7 @@ Tampilkan hasil akhir yang menyatakan "Total harga yang harus dibayar" dengan fo
 
 
 URAIAN LANGKAH LANGKAH CODING 2
+
 Meminta Input dari Pengguna
 Program meminta pengguna untuk memasukkan dua angka yang akan digunakan dalam operasi aritmatika, yaitu angka1 dan angka2.
 Program meminta input operator aritmatika (+, -, *, atau /) yang akan digunakan pada kedua angka tersebut. Operator ini disimpan dalam variabel operator.
